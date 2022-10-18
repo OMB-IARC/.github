@@ -19,8 +19,10 @@ Note: some of the tools and code are developed as part of the ANR and DFG funded
 
 ########
 ### MetaboPipeline - Metabolomics data bioinformatics pipeline and data science notebooks
+
 **MetaboPipeline_bioinfo** is an ensemble of scripts and pipeline tools to analyze metabolomics data from human cohort studies. 
 The metabolomics data processing and annotation part is derived from the Nextflow pipeline [MetaboIgniter](https://nf-co.re/metaboigniter) used to process, analyze, and annotate raw LC-MS metabolomics data. 
+
 **MetaboPipeline_notebooks** is an ensemble of notebooks to apply a "data science" approach to the metabolomics data outputs from the MetaboPipeline_bioinfo pipeline or from the vendor softwares (e.g., Agilent MassHunter). These notebooks allow a number of statistical and machine learning methods to be applied to analyze the metabolomics datasets, including metadata from the EPIC cohort studies.
 
 ########
