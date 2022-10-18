@@ -10,6 +10,8 @@ OMB collaborates closely with other teams in NME, with untargeted metabolomics g
 
 You can find on this page some of the tools and code developped as part of the bioinformatics and computational activities in the OMB team.
 
+Note: some of the tools and code are developed as part of the ANR and DFG funded [MetClassNet consortium](http://www.metclassnet.org/), some of the repositories forked here from the MetClassNet consortium are modified to fit the internal need at OMB but the source code and up to date versions are available on the [MetClassNet Github page](https://github.com/MetClassNet).
+
 For any requests feel free to contact: adam.amara@iarc.who.int
 
 
