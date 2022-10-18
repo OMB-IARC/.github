@@ -16,6 +16,7 @@ Note: some of the tools and code are developed as part of the ANR and DFG funded
 #######
 ### CanGraph - Knowledge graphs for cancer-associated metabolites
 [CanGraph](https://omb-iarc.github.io/CanGraph/) is a Python program that allows you to extract information about a newly discovered or existing metabolite from the multiple databases: [Exposome Explorer](http://exposome-explorer.iarc.fr/) (a curated database of metabolites associated to exposures developped by IARC), [DrugBank](https://go.drugbank.com/) (a drug database, you need to apply for a paid commercial or an academic license to use it), [HMDB](https://hmdb.ca/metabolites) (Human Metabolome Database), [SMPDB](https://smpdb.ca/) (Small Molecule Pathway Database), WikiData. The database metabolites are unified by the MetaNetX and MeSH ontologies. 
+Author: @MarionMoseby
 
 ########
 ### MetaboPipeline - Metabolomics data bioinformatics pipeline and data science notebooks
@@ -24,6 +25,7 @@ Note: some of the tools and code are developed as part of the ANR and DFG funded
 The metabolomics data processing and annotation part is derived from the Nextflow pipeline [MetaboIgniter](https://nf-co.re/metaboigniter) used to process, analyze, and annotate raw LC-MS metabolomics data. 
 
 **MetaboPipeline_notebooks** is an ensemble of notebooks to apply a "data science" approach to the metabolomics data outputs from the MetaboPipeline_bioinfo pipeline or from the vendor softwares (e.g., Agilent MassHunter). These notebooks allow a number of statistical and machine learning methods to be applied to analyze the metabolomics datasets, including metadata from the EPIC cohort studies.
+Author: @maxvincent24
 
 ########
 ### MetClassNet - Multilayers networks for metabolomics data annotation and interpretation
