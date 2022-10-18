@@ -45,7 +45,7 @@ This depency is necessary to run MetClassNetR R vignettes
 **MCN-HumanNet** - Human Metabolic Network 
 
 
-For any requests feel free to contact: adam.amara@iarc.who.int
+For any requests feel free to contact: amaraa@iarc.who.int
 
 
 ![](https://www.iarc.who.int/config/logo.svg) 
